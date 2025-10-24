@@ -39,4 +39,11 @@ rama-deasis
   * Incluir un archivo .txt con info personal (y un extra) solicitando un Pull Request
   * Editar mi parte correspondiente al archivo README del repositorio
 
-  rama-cabral
+
+---
+
+
+Nombre: Gomez, Ivan
+Usuario de github: IvanGael
+Contribuciones: Mi tareas en el mismo fueron, crear mi parte del repositorio ("rama-gomez"), modificarlo, agregar el .txt y los requerido en readme siguiendo los pasos del proyecto.
+  
